@@ -14,15 +14,9 @@ const SOCIALS = [
   },
   {
     label: "Facebook",
-    href:  "https://www.facebook.com/autohubdetailingstudio",
+    href:  "https://www.facebook.com/share/1Zu26iFWmW/",
     icon:  <Facebook size={17} />,
     hover: "hover:text-blue-400 hover:border-blue-500/30 hover:bg-blue-500/5",
-  },
-  {
-    label: "YouTube",
-    href:  "https://www.youtube.com/@autohubdetailingstudio",
-    icon:  <Youtube size={17} />,
-    hover: "hover:text-red-500 hover:border-red-500/30 hover:bg-red-500/5",
   },
   {
     label: "WhatsApp",
